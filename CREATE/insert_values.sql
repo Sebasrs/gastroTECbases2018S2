@@ -85,6 +85,7 @@ VALUES	(1,1,1,'20180618 10:34:09 AM'),
 	
 INSERT INTO VotoPlatillo(idPlatillo, idTipoVoto, idRestaurante, idEstudiante, Fecha)
 VALUES	(1,1,1,1,'20180618 10:34:09 AM'),
+		(1,1,1,1,'20180618 10:34:09 AM'),
 		(2,2,2,2,'20180618 10:34:09 AM'),
 		(3,1,3,3,'20180618 10:34:09 AM'),
 		(4,2,4,4,'20180118 10:34:09 AM'),

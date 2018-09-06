@@ -1,3 +1,7 @@
+/*
+* Muestra el platillo preferido dentro de la semana grupandolos por su nombre y contando
+* la cantidad de votos totales
+*/
 SELECT Platillo.Nombre, COUNT(TipoVoto.Tipo) AS Likes
 FROM VotoPlatillo
 INNER JOIN Platillo

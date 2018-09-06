@@ -1,4 +1,4 @@
-﻿--Create valores de prueba para mostrar el funcionamiento de las consultas
+--Crea valores de prueba para mostrar el funcionamiento de las consultas
 
 INSERT INTO Restaurante(Nombre, Ubicacion)
 VALUES	('Cafe 7', 'San Jose'),
@@ -89,6 +89,9 @@ INSERT INTO VotoPlatillo(idPlatillo, idTipoVoto, idRestaurante, idEstudiante, Fe
 VALUES	(1,1,1,1,'2018-06-18 10:34:09'),
 		(1,1,1,1,'2018-06-18 10:34:09'),
 		(2,2,2,2,'2018-06-18 10:34:09'),
+		(3,1,3,3,'2018-06-18 10:34:09'),
+		(3,1,3,3,'2018-06-18 10:34:09'),
+		(3,1,3,3,'2018-06-18 10:34:09'),
 		(3,1,3,3,'2018-06-18 10:34:09'),
 		(4,2,4,4,'2018-01-18 10:34:09'),
 		(5,1,5,5,'2018-01-18 10:34:09'),

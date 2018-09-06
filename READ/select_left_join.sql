@@ -11,3 +11,4 @@ FROM Estudiante
 LEFT JOIN Compra
 	ON Compra.IdEstudiante = Estudiante.IdEstudiante
 	AND Compra.IdRestaurante = 1
+ORDER BY EstatusCompra;

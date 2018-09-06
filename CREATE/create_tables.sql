@@ -1,4 +1,7 @@
---Crea las tablas necesarias, con sus relaciones, para el correcto funcionamiento de las consultas
+/*
+* Crea las tablas necesarias, con sus relaciones, 
+* para el correcto funcionamiento de las consultas
+*/
 
 CREATE TABLE Restaurante
 (

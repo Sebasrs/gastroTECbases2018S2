@@ -1,3 +1,5 @@
+﻿--Create valores de prueba para mostrar el funcionamiento de las consultas
+
 INSERT INTO Restaurante(Nombre, Ubicacion)
 VALUES	('Cafe 7', 'San Jose'),
 		('Pollo Sabroso', 'Cartago'),

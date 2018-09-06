@@ -1,3 +1,5 @@
+--Crea las tablas necesarias, con sus relaciones, para el correcto funcionamiento de las consultas
+
 CREATE TABLE Restaurante
 (
 	IdRestaurante INTEGER PRIMARY KEY,
